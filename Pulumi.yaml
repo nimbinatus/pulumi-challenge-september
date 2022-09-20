@@ -1,0 +1,6 @@
+name: pulumi-challenge-september
+description: A serverless app on AWS API Gateway and Lambda
+runtime:
+    name: python
+    options:
+        virtualenv: venv
