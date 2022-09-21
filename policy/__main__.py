@@ -18,7 +18,6 @@ def map_swag_to_form(swag_var):
     data_json['entry.511943887'] = swag['email']
     data_json['entry.1289952319'] = swag['address']
     data_json['entry.1240089905'] = swag['size']
-    print(data_json)
     return data_json
 
 
